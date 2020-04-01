@@ -14,7 +14,7 @@ itsdangerous==0.24
 Jinja2==2.8
 Mako==1.0.4
 MarkupSafe==0.23
-marshmallow==2.10.2
+marshmallow==2.15.1
 marshmallow-sqlalchemy==0.10.0
 nose2==0.6.5
 passlib==1.6.5
